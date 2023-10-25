@@ -1,0 +1,14 @@
+C:\Users\Яр\source\repos\PR2R\PR2R\bin\Debug\net6.0\PR2R.exe
+C:\Users\Яр\source\repos\PR2R\PR2R\bin\Debug\net6.0\PR2R.deps.json
+C:\Users\Яр\source\repos\PR2R\PR2R\bin\Debug\net6.0\PR2R.runtimeconfig.json
+C:\Users\Яр\source\repos\PR2R\PR2R\bin\Debug\net6.0\PR2R.dll
+C:\Users\Яр\source\repos\PR2R\PR2R\bin\Debug\net6.0\PR2R.pdb
+C:\Users\Яр\source\repos\PR2R\PR2R\obj\Debug\net6.0\PR2R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яр\source\repos\PR2R\PR2R\obj\Debug\net6.0\PR2R.AssemblyInfoInputs.cache
+C:\Users\Яр\source\repos\PR2R\PR2R\obj\Debug\net6.0\PR2R.AssemblyInfo.cs
+C:\Users\Яр\source\repos\PR2R\PR2R\obj\Debug\net6.0\PR2R.csproj.CoreCompileInputs.cache
+C:\Users\Яр\source\repos\PR2R\PR2R\obj\Debug\net6.0\PR2R.dll
+C:\Users\Яр\source\repos\PR2R\PR2R\obj\Debug\net6.0\refint\PR2R.dll
+C:\Users\Яр\source\repos\PR2R\PR2R\obj\Debug\net6.0\PR2R.pdb
+C:\Users\Яр\source\repos\PR2R\PR2R\obj\Debug\net6.0\PR2R.genruntimeconfig.cache
+C:\Users\Яр\source\repos\PR2R\PR2R\obj\Debug\net6.0\ref\PR2R.dll
